@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node (if you add a frontend later)
+node_modules/
+dist/
+build/
