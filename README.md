@@ -17,8 +17,8 @@ A simple Flask web app that serves as a local AI-powered research assistant, usi
   ```bash
   pip install flask requests
 
-Quick Start
-	1.	Install and run Ollama
+##Quick Start
+Install and run Ollama
   2.  Clone the Repo 
   3.  Run Flask
   4.  Open in Browser
